@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Saved, Tucked Away
+title:  保存，藏起来
 answer: \[12, 35, 47\]
 load:   ticket = [12, 47, 35]
 ok:     You've sorted the list

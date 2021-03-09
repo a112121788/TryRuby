@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Your Own Turf
+title:  你自己的地盘
 answer: Blurbalizer:
 ok:     My app created
 error:  

@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  The Ripened Fruit of Your Own Creation
+title:  你自己创造的成熟果实
 answer: ^Tamed a shrew
 ok:     That'll show those shrews
 error:  

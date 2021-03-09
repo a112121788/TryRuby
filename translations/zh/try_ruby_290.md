@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  A Tally
+title:  计票
 answer: \w+
 ok:     Yodelay!
 error:

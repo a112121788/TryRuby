@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Tucking a List Away
+title:  把单子收起来
 answer: ^\[(\d+)(,\s*\d+){2,}\]$
 ok:     Saved!
 error:  

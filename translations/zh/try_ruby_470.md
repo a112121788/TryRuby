@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  The Stuff Apps are Made of
+title:  应用程序的材料
 answer: 
 ok:     
 error:  

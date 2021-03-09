@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  The world is our oyster
+title:  世界就是我们的牡蛎
 answer: ^\{\"William
 ok:     Good. Bit difficult to read.
 error:  

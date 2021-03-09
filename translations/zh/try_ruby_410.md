@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  All's Well That Ends Well
+title:  结局好就一切都好
 answer: All's Well That Ends Well
 ok:     True
 error:  Use 1605 as the second parameter

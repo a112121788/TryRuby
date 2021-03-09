@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Of All the Summaries, #3 is Here Now
+title:  在所有的总结 #3中，现在在这里
 answer: \{\}
 class:  stretcher chapmark
 load:   prev

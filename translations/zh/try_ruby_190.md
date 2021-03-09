@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Sadly, You Hate Toast Poetry
+title:  可悲的是，你讨厌 Toast Poetry
 answer: (toast){0}
 load:   prev
 ok:     Excellent

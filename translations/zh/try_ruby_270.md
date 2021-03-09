@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Hashes as Pairs
+title:  散列成对
 answer: ^\[".*"\]
 load:   prev
 ok:     You found the keys

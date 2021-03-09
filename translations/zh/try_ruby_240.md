@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  A Wee Blank Book
+title:  一本小白书
 answer: ^(splendid|quite_good|mediocre|quite_not_good|abysmal)$
 load:   books = {}
 ok:     Yes that's a new review

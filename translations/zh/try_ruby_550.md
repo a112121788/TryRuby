@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  It's All About Combining
+title:  一切都是关于组合的
 answer: :-
 ok:     Moody!
 error:

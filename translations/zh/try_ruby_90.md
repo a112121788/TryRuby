@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Hey, Summary #1 Already
+title:  嘿，总结#1了吗
 answer: NoMethodError|undefined
 class:  stretcher chapmark
 ok:     Nope, it is not possible to reverse a number. Click 'next'

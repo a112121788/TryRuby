@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Now Type Ticket
+title:  现在输入 Ticket
 answer: \[(\d+(, )?){2,}\]
 load:   ticket = [12, 47, 35]
 ok:     Restored!

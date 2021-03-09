@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Counting the Letters
+title:  数数字母
 answer: ^\d+$
 ok:     Yep. Length is also a 'method'
 error:  

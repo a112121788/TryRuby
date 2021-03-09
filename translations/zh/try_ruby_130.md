@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  One Raises Its Hand
+title:  一个人举起手来
 answer: ^47$
 ok:     Okay
 error:  

@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  A Giraffe Has Not Stolen Summary #7
+title:  总结#7 长颈鹿没有偷东西
 answer: 
 class:  stretcher chapmark
 ok:     

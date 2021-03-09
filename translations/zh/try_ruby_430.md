@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  And Now For the Startling Conclusion
+title:  现在是惊人的结论
 answer: is not equal to 100$
 ok:     That's better
 error:  This can't be right

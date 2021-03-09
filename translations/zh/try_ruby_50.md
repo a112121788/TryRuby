@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Say Your Name
+title:  说出你的名字
 answer: [a-zA-Z]{1,1}
 ok:     Perfect, you've formed a string from the letters of your name
 error:  

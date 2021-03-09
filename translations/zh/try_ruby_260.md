@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Wait, Did I Like Gravity's Rainbow?
+title:  等等，我喜欢万有引力彩虹吗？
 answer: ^(splendid|quite_good|mediocre|quite_not_good|abysmal)$
 load:   books = {"Gravitys Rainbow" => :splendid, "The deep end" => :abysmal, "Living colors" => :mediocre}
 ok:     I liked it a lot

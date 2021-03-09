@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Stop, You're Barking Mad!
+title:  住手，你疯了！
 answer: ^\d{1,}$
 ok:     Only strings can be reversed
 error:  

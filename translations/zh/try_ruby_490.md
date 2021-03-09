@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  An Object, That Neat Little Package
+title:  一个物品，整洁的小包装
 answer: Blurb:
 ok:     Blurb updated
 error:  

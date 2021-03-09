@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Putting it differently
+title:  换个说法
 answer: ^[0-9\.,-]{1,}$
 ok:     Well put
 error:

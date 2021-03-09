@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  You've Taught Your App to Reject Worthless Things
+title:  您已教过您的应用程序以拒绝毫无价值的事情
 answer: Blurb:
 ok:     Blurb added
 error:  

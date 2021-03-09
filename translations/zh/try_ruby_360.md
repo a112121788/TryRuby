@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Give and take
+title:  互让
 answer: \d+
 ok:     Right on. Bravo.
 error:

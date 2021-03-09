@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Ringlets of Chained Methods
+title:  链式方法的环
 answer: ^More still did (.+)
 load:   prev
 ok:     Good show, my friend!<br/>The join method took that array of lines and put them together into a string.

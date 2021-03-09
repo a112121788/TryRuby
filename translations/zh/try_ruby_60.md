@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Say Your Name Backwards
+title:  倒着说你的名字
 answer: \w+
 ok:     dooG
 error:  

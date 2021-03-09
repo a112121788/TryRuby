@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Are You Harsh?
+title:  你很苛刻吗？
 answer: "mediocre"
 load:   books = {"Gravitys Rainbow" => :splendid, "The deep end" => :abysmal, "Living colors" => :mediocre, "Bumblebees" => :mediocre}
 ok:     Great, wow! You've made a scorecard of your ratings

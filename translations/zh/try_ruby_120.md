@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Standing in Line
+title:  排队
 answer: ^\[([-\.\d]+)(\s*,\s*[-\d\.]+){3,}\]$
 ok:     Excellent
 error:  Try adding a fourth number to the list

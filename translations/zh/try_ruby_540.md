@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  What's that Blurb all about?
+title:  那是什么意思？
 answer: Today
 ok:     Bring on the blurbs
 error:

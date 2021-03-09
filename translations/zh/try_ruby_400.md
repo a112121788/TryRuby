@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  All together now
+title:  现在都在一起了
 answer: ^4$
 ok:     Yes, Shakespeare wrote 4 plays in 1591
 error:  Answer for the year 1591 should be 4

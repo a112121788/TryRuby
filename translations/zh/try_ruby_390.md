@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Noble Kinsmen
+title:  高贵的亲属
 answer: ^The Two Noble Kinsmen$
 ok:     That's much better
 error:  

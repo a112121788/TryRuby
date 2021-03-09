@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Quickening it Up
+title:  加快速度
 answer: ^\d{4}
 ok:     Noted
 error:  

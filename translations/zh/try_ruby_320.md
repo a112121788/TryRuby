@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  To (be) or not to (be)
+title:  做或不做
 answer:
 load:   poem = "My toast has flown from my hand\nAnd my toast has gone to the moon.\nYada yada yada\n"
 ok:

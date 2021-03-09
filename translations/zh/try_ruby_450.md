@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Summary #6 Which Means You've Come So Far
+title:  总结#6 意味着你已经走了这么远
 answer: \{\}
 class:  stretcher chapmark
 ok:     Ok, that's an empty hash

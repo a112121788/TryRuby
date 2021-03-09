@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Apples are Different From Oranges
+title: 苹果和桔子是不同的
 answer: \[\]
 ok:     Great, that's an empty list
 error:

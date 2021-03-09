@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Using the editor
+title:  使用编辑器
 answer: ^\d{1,}$
 ok:     Good! You did a bit of math. See how the answer popped out?
 error:  Type 2 + 6 in the editor

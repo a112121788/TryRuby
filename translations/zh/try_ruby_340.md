@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  In Ruby, Def Leppard means: define method Leppard
+title:  在Ruby中，Def Leppard的意思是：define method Leppard
 answer: ^tame
 ok:     Tame is not lame
 error:  

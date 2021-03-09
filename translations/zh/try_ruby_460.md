@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Not a School Class, a Working Class
+title:  不是学校班，是工人班
 answer:
 ok:
 error:

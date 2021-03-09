@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Summary #8, The Hey-Relax-You-Did-Good Summary
+title:  总结#8，你的总结做得很好
 answer:
 class:  stretcher chapmark
 ok:     

@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Ready, Aim
+title:  准备，瞄准
 answer: ^\n.ti tae ot (.+)
 load:   prev
 ok:     Okay, sure.  So the whole poem has been turned backwards.

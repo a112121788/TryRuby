@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Accessors Are the Dangling Limbs
+title:  存取器是悬空的肢体
 answer: Blurb:
 ok:     My first Blurb
 error:  

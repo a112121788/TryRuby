@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Have you got the time?
+title:  你有时间吗？
 answer: ^[0-9]$
 ok:     You timed it just right!
 error:  Run the block 0 to 9 times

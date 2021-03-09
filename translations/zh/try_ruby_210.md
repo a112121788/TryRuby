@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Too Much Reversal
+title:  反转过多
 answer: ^\["More still did (.+)
 load:   prev
 ok:     Yes, almost what we want

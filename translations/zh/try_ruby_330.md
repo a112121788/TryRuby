@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  The Taming of the Shrew
+title:  驯服悍妇
 answer: ^tame
 ok:     Good good!
 error:

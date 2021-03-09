@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Me hungry
+title:  我饿了吗
 answer: ^Me not hungry
 ok:     Yes
 error:  No way am I hungry at 10 AM!

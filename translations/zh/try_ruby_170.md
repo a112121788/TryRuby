@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Elemental
+title:  元素
 answer: ^(12|35|47)$
 load:   ticket = [12, 47, 35]
 ok:     Ok

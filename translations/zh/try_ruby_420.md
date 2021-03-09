@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  If only I knew how to make a decision
+title:  要是我知道怎么做决定就好了
 answer: 
 ok:     
 error:  

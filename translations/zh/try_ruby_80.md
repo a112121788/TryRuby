@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  On Repeat
+title:  重复
 answer: (\w+)
 ok:     Nice to meet you.Nice to meet you.Nice to meet you.
 error:  

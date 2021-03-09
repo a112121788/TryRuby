@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  More Bite-Size Reviews
+title:  更多 Bite-Size 的评论
 answer: [3-9]
 load:   books = {"Gravitys Rainbow" => :splendid}
 ok:     See, the length method works on strings, arrays and hashes.

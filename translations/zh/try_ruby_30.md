@@ -1,6 +1,6 @@
 ---
 lang:   zh
-title:  Numbers and Math
+title:  数字和数学
 answer: ^[0-9\.,-]{1,}$
 ok:     Good
 error:  
