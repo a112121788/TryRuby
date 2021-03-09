@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://gems.ruby-china.com'
 
 gem "opal", "~> 0.11.4"
 gem "opal-sprockets"

@@ -22,6 +22,7 @@ description: Learn to program in Ruby in 30 minutes
               <option value="ru">Русский</option>
               <option value="ua">Українська</option>
               <option value="mk">Македонски</option>
+              <option value="zh">简体中文</option>
             </select>
           </div>
         </div>

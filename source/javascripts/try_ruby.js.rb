@@ -133,6 +133,10 @@ class TryRuby
         language = 'ua'
       when 'mk'
         language = 'mk'
+      when 'zh-CN'
+        language = 'zh'
+      when 'zh'
+        language = 'zh'
       else
         language = 'en'
       end
