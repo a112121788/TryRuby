@@ -1,4 +1,4 @@
-build/*
+# build/*
 .bundle
 .idea
 .ruby-version
